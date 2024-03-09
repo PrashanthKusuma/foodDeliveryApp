@@ -54,7 +54,7 @@ export const address = [
     id: 228,
     Name: "Dr. Sheldon Cooper",
     Mobile: "5186047362",
-    Address: "Kormangala, Bangalore, KR 500001",
+    Address: "Gachibowli, Telangana, TS 500031",
     AddressType: "Home",
   },
 
@@ -62,14 +62,14 @@ export const address = [
     id: 229,
     Name: "Hulk",
     Mobile: "4161071256",
-    Address: "Indiranagar, Bangalore, KR 500020",
+    Address: "Raidurgam, Telangana, TS 500032",
     AddressType: "Office",
   },
   {
     id: 234,
     Name: "Steve Rogers",
     Mobile: "2304802741",
-    Address: "BTM Layout, Bangalore, KR 500016",
+    Address: "Secundrabad, Telangana, TS 500030",
     AddressType: "Others",
   },
   {
